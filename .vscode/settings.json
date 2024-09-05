@@ -1,0 +1,6 @@
+{
+    "prettier.configPath": "./prettier.config.cjs",
+    "prettier.tabWidth": 4,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
